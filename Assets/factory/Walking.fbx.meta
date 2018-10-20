@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: d4ae7907276349c43aa2c5f867f5c65b
+timeCreated: 1535386881
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe0Nub
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Pelvis
+    100034: Bip001 R Calf
+    100036: Bip001 R Clavicle
+    100038: Bip001 R Finger0
+    100040: Bip001 R Finger0Nub
+    100042: Bip001 R Foot
+    100044: Bip001 R Forearm
+    100046: Bip001 R Hand
+    100048: Bip001 R Thigh
+    100050: Bip001 R Toe0
+    100052: Bip001 R Toe0Nub
+    100054: Bip001 R UpperArm
+    100056: Bip001 Spine
+    100058: Box001
+    100060: Box002
+    100062: ChamferBox001
+    100064: ChamferBox002
+    100066: ChamferBox003
+    100068: ChamferBox004
+    100070: ChamferCyl001
+    100072: ChamferCyl002
+    100074: Cylinder001
+    100076: Cylinder002
+    100078: Cylinder003
+    100080: Cylinder004
+    100082: Cylinder005
+    100084: Cylinder006
+    100086: Cylinder007
+    100088: Cylinder008
+    100090: Cylinder009
+    100092: Cylinder010
+    100094: Group002
+    100096: Group003
+    100098: Group004
+    100100: Group005
+    100102: Group006
+    100104: Group007
+    100106: Pyramid001
+    100108: Sphere001
+    100110: Sphere002
+    100112: Sphere003
+    100114: Sphere004
+    100116: Sphere005
+    100118: Sphere006
+    100120: Sphere007
+    100122: Sphere008
+    100124: Sphere009
+    100126: Sphere010
+    100128: Sphere011
+    100130: Sphere012
+    100132: Sphere013
+    100134: Sphere014
+    100136: Sphere015
+    100138: Sphere016
+    100140: Sphere017
+    100142: Sphere018
+    100144: Sphere019
+    100146: Torus001
+    100148: Tube001
+    100150: Tube002
+    100152: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe0Nub
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Pelvis
+    400034: Bip001 R Calf
+    400036: Bip001 R Clavicle
+    400038: Bip001 R Finger0
+    400040: Bip001 R Finger0Nub
+    400042: Bip001 R Foot
+    400044: Bip001 R Forearm
+    400046: Bip001 R Hand
+    400048: Bip001 R Thigh
+    400050: Bip001 R Toe0
+    400052: Bip001 R Toe0Nub
+    400054: Bip001 R UpperArm
+    400056: Bip001 Spine
+    400058: Box001
+    400060: Box002
+    400062: ChamferBox001
+    400064: ChamferBox002
+    400066: ChamferBox003
+    400068: ChamferBox004
+    400070: ChamferCyl001
+    400072: ChamferCyl002
+    400074: Cylinder001
+    400076: Cylinder002
+    400078: Cylinder003
+    400080: Cylinder004
+    400082: Cylinder005
+    400084: Cylinder006
+    400086: Cylinder007
+    400088: Cylinder008
+    400090: Cylinder009
+    400092: Cylinder010
+    400094: Group002
+    400096: Group003
+    400098: Group004
+    400100: Group005
+    400102: Group006
+    400104: Group007
+    400106: Pyramid001
+    400108: Sphere001
+    400110: Sphere002
+    400112: Sphere003
+    400114: Sphere004
+    400116: Sphere005
+    400118: Sphere006
+    400120: Sphere007
+    400122: Sphere008
+    400124: Sphere009
+    400126: Sphere010
+    400128: Sphere011
+    400130: Sphere012
+    400132: Sphere013
+    400134: Sphere014
+    400136: Sphere015
+    400138: Sphere016
+    400140: Sphere017
+    400142: Sphere018
+    400144: Sphere019
+    400146: Torus001
+    400148: Tube001
+    400150: Tube002
+    400152: //RootNode
+    2100000: No Name
+    4300000: Box001
+    4300002: ChamferBox002
+    4300004: ChamferBox003
+    4300006: ChamferBox004
+    4300008: ChamferCyl001
+    4300010: ChamferCyl002
+    4300012: Cylinder003
+    4300014: Cylinder004
+    4300016: Cylinder005
+    4300018: Cylinder006
+    4300020: Cylinder007
+    4300022: Tube001
+    4300024: Sphere018
+    4300026: Tube002
+    4300028: Sphere019
+    4300030: Cylinder008
+    4300032: Box002
+    4300034: Cylinder010
+    4300036: Cylinder009
+    4300038: Torus001
+    4300040: Pyramid001
+    4300042: Cylinder001
+    4300044: Cylinder002
+    4300046: ChamferBox001
+    4300048: Sphere001
+    4300050: Sphere002
+    4300052: Sphere003
+    4300054: Sphere004
+    4300056: Sphere005
+    4300058: Sphere006
+    4300060: Sphere007
+    4300062: Sphere008
+    4300064: Sphere009
+    4300066: Sphere010
+    4300068: Sphere011
+    4300070: Sphere012
+    4300072: Sphere013
+    4300074: Sphere014
+    4300076: Sphere015
+    4300078: Sphere016
+    4300080: Sphere017
+    7400000: Take 001
+    7400002: mixamo.com
+    9500000: //RootNode
+    13700000: Box001
+    13700002: Box002
+    13700004: ChamferBox001
+    13700006: ChamferBox002
+    13700008: ChamferBox003
+    13700010: ChamferBox004
+    13700012: ChamferCyl001
+    13700014: ChamferCyl002
+    13700016: Cylinder001
+    13700018: Cylinder002
+    13700020: Cylinder003
+    13700022: Cylinder004
+    13700024: Cylinder005
+    13700026: Cylinder006
+    13700028: Cylinder007
+    13700030: Cylinder008
+    13700032: Cylinder009
+    13700034: Cylinder010
+    13700036: Pyramid001
+    13700038: Sphere001
+    13700040: Sphere002
+    13700042: Sphere003
+    13700044: Sphere004
+    13700046: Sphere005
+    13700048: Sphere006
+    13700050: Sphere007
+    13700052: Sphere008
+    13700054: Sphere009
+    13700056: Sphere010
+    13700058: Sphere011
+    13700060: Sphere012
+    13700062: Sphere013
+    13700064: Sphere014
+    13700066: Sphere015
+    13700068: Sphere016
+    13700070: Sphere017
+    13700072: Sphere018
+    13700074: Sphere019
+    13700076: Torus001
+    13700078: Tube001
+    13700080: Tube002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

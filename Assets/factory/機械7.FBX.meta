@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b4dc54b9465ade14ca27834297f5582a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Cone001
+    100004: Cone002
+    100006: Cone003
+    100008: Cone004
+    100010: Cylinder001
+    100012: Loft001
+    100014: Loft002
+    100016: Loft003
+    100018: Loft004
+    100020: Loft005
+    100022: Sphere001
+    100024: Sphere002
+    100026: Torus001
+    100028: Torus002
+    100030: Tube001
+    100032: //RootNode
+    400000: Box001
+    400002: Cone001
+    400004: Cone002
+    400006: Cone003
+    400008: Cone004
+    400010: Cylinder001
+    400012: Loft001
+    400014: Loft002
+    400016: Loft003
+    400018: Loft004
+    400020: Loft005
+    400022: Sphere001
+    400024: Sphere002
+    400026: Torus001
+    400028: Torus002
+    400030: Tube001
+    400032: //RootNode
+    2100000: 02 - Default
+    2100002: 01 - Default
+    2100004: 15 - Default
+    2100006: 03 - Default
+    2100008: 14 - Default
+    2100010: 13 - Default
+    2100012: 09 - Default
+    2100014: 07 - Default
+    2100016: 08 - Default
+    2300000: Box001
+    2300002: Cone001
+    2300004: Cone002
+    2300006: Cone003
+    2300008: Cone004
+    2300010: Cylinder001
+    2300012: Loft001
+    2300014: Loft002
+    2300016: Loft003
+    2300018: Loft004
+    2300020: Loft005
+    2300022: Sphere001
+    2300024: Sphere002
+    2300026: Torus001
+    2300028: Torus002
+    2300030: Tube001
+    3300000: Box001
+    3300002: Cone001
+    3300004: Cone002
+    3300006: Cone003
+    3300008: Cone004
+    3300010: Cylinder001
+    3300012: Loft001
+    3300014: Loft002
+    3300016: Loft003
+    3300018: Loft004
+    3300020: Loft005
+    3300022: Sphere001
+    3300024: Sphere002
+    3300026: Torus001
+    3300028: Torus002
+    3300030: Tube001
+    4300000: Cone001
+    4300002: Torus001
+    4300004: Sphere001
+    4300006: Sphere002
+    4300008: Cone002
+    4300010: Torus002
+    4300012: Loft001
+    4300014: Tube001
+    4300016: Loft002
+    4300018: Loft003
+    4300020: Box001
+    4300022: Loft004
+    4300024: Loft005
+    4300026: Cylinder001
+    4300028: Cone003
+    4300030: Cone004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

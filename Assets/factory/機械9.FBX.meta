@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 4969cb997e6caf94084751e7d9714016
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Capsule001
+    100012: Capsule002
+    100014: Capsule003
+    100016: Cylinder001
+    100018: Cylinder002
+    100020: Cylinder003
+    100022: Cylinder004
+    100024: Cylinder005
+    100026: Cylinder006
+    100028: Loft001
+    100030: Loft002
+    100032: Loft003
+    100034: Loft004
+    100036: Loft005
+    100038: Loft006
+    100040: Loft007
+    100042: Loft008
+    100044: Loft009
+    100046: Loft010
+    100048: Sky001
+    100050: Sphere001
+    100052: Sphere002
+    100054: Sphere003
+    100056: Sphere004
+    100058: Sphere005
+    100060: Sphere006
+    100062: Sphere007
+    100064: //RootNode
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Capsule001
+    400012: Capsule002
+    400014: Capsule003
+    400016: Cylinder001
+    400018: Cylinder002
+    400020: Cylinder003
+    400022: Cylinder004
+    400024: Cylinder005
+    400026: Cylinder006
+    400028: Loft001
+    400030: Loft002
+    400032: Loft003
+    400034: Loft004
+    400036: Loft005
+    400038: Loft006
+    400040: Loft007
+    400042: Loft008
+    400044: Loft009
+    400046: Loft010
+    400048: Sky001
+    400050: Sphere001
+    400052: Sphere002
+    400054: Sphere003
+    400056: Sphere004
+    400058: Sphere005
+    400060: Sphere006
+    400062: Sphere007
+    400064: //RootNode
+    2100000: 09 - Default
+    2100002: 13 - Default
+    2100004: 01 - Default
+    2100006: 14 - Default
+    2100008: 19 - Default
+    2100010: 02 - Default
+    2100012: 07 - Default
+    2100014: 03 - Default
+    2100016: 20 - Default
+    2100018: 15 - Default
+    2100020: 08 - Default
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Capsule001
+    2300012: Capsule002
+    2300014: Capsule003
+    2300016: Cylinder001
+    2300018: Cylinder002
+    2300020: Cylinder003
+    2300022: Cylinder004
+    2300024: Cylinder005
+    2300026: Cylinder006
+    2300028: Loft001
+    2300030: Loft002
+    2300032: Loft003
+    2300034: Loft004
+    2300036: Loft005
+    2300038: Loft006
+    2300040: Loft007
+    2300042: Loft008
+    2300044: Loft009
+    2300046: Loft010
+    2300048: Sphere001
+    2300050: Sphere002
+    2300052: Sphere003
+    2300054: Sphere004
+    2300056: Sphere005
+    2300058: Sphere006
+    2300060: Sphere007
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Capsule001
+    3300012: Capsule002
+    3300014: Capsule003
+    3300016: Cylinder001
+    3300018: Cylinder002
+    3300020: Cylinder003
+    3300022: Cylinder004
+    3300024: Cylinder005
+    3300026: Cylinder006
+    3300028: Loft001
+    3300030: Loft002
+    3300032: Loft003
+    3300034: Loft004
+    3300036: Loft005
+    3300038: Loft006
+    3300040: Loft007
+    3300042: Loft008
+    3300044: Loft009
+    3300046: Loft010
+    3300048: Sphere001
+    3300050: Sphere002
+    3300052: Sphere003
+    3300054: Sphere004
+    3300056: Sphere005
+    3300058: Sphere006
+    3300060: Sphere007
+    4300000: Box001
+    4300002: Box002
+    4300004: Box003
+    4300006: Box004
+    4300008: Box005
+    4300010: Cylinder001
+    4300012: Cylinder002
+    4300014: Capsule001
+    4300016: Loft001
+    4300018: Cylinder003
+    4300020: Cylinder004
+    4300022: Loft002
+    4300024: Cylinder005
+    4300026: Loft003
+    4300028: Cylinder006
+    4300030: Loft004
+    4300032: Loft005
+    4300034: Sphere001
+    4300036: Loft006
+    4300038: Loft007
+    4300040: Loft008
+    4300042: Loft009
+    4300044: Loft010
+    4300046: Sphere002
+    4300048: Sphere003
+    4300050: Sphere004
+    4300052: Sphere005
+    4300054: Sphere006
+    4300056: Sphere007
+    4300058: Capsule002
+    4300060: Capsule003
+    9500000: //RootNode
+    10800000: Sky001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

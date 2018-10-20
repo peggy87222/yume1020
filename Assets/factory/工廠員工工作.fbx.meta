@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 0e2d54dd15a1c2447a1d7dedb3bff1fc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe0Nub
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Pelvis
+    100034: Bip001 R Calf
+    100036: Bip001 R Clavicle
+    100038: Bip001 R Finger0
+    100040: Bip001 R Finger0Nub
+    100042: Bip001 R Foot
+    100044: Bip001 R Forearm
+    100046: Bip001 R Hand
+    100048: Bip001 R Thigh
+    100050: Bip001 R Toe0
+    100052: Bip001 R Toe0Nub
+    100054: Bip001 R UpperArm
+    100056: Bip001 Spine
+    100058: ChamferBox005
+    100060: Cylinder008
+    100062: Cylinder009
+    100064: Cylinder010
+    100066: Cylinder011
+    100068: Cylinder012
+    100070: Cylinder013
+    100072: Cylinder014
+    100074: Cylinder015
+    100076: Cylinder016
+    100078: Cylinder017
+    100080: Cylinder018
+    100082: Cylinder019
+    100084: OilTank001
+    100086: Sphere018
+    100088: Sphere019
+    100090: Sphere020
+    100092: Sphere021
+    100094: Sphere022
+    100096: Sphere023
+    100098: Sphere024
+    100100: Sphere025
+    100102: Sphere027
+    100104: Sphere028
+    100106: Sphere029
+    100108: Sphere030
+    100110: Tube001
+    100112: Tube002
+    100114: Tube003
+    100116: Tube004
+    100118: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe0Nub
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Pelvis
+    400034: Bip001 R Calf
+    400036: Bip001 R Clavicle
+    400038: Bip001 R Finger0
+    400040: Bip001 R Finger0Nub
+    400042: Bip001 R Foot
+    400044: Bip001 R Forearm
+    400046: Bip001 R Hand
+    400048: Bip001 R Thigh
+    400050: Bip001 R Toe0
+    400052: Bip001 R Toe0Nub
+    400054: Bip001 R UpperArm
+    400056: Bip001 Spine
+    400058: ChamferBox005
+    400060: Cylinder008
+    400062: Cylinder009
+    400064: Cylinder010
+    400066: Cylinder011
+    400068: Cylinder012
+    400070: Cylinder013
+    400072: Cylinder014
+    400074: Cylinder015
+    400076: Cylinder016
+    400078: Cylinder017
+    400080: Cylinder018
+    400082: Cylinder019
+    400084: OilTank001
+    400086: Sphere018
+    400088: Sphere019
+    400090: Sphere020
+    400092: Sphere021
+    400094: Sphere022
+    400096: Sphere023
+    400098: Sphere024
+    400100: Sphere025
+    400102: Sphere027
+    400104: Sphere028
+    400106: Sphere029
+    400108: Sphere030
+    400110: Tube001
+    400112: Tube002
+    400114: Tube003
+    400116: Tube004
+    400118: //RootNode
+    2100000: 13 - Default
+    2100002: 03 - Default
+    2100004: 09 - Default
+    2100006: 123
+    2100008: No Name
+    2100010: 02 - Default
+    2100012: 07 - Default
+    4300000: Tube001
+    4300002: Sphere018
+    4300004: Tube002
+    4300006: Sphere019
+    4300008: OilTank001
+    4300010: Cylinder008
+    4300012: ChamferBox005
+    4300014: Sphere024
+    4300016: Cylinder017
+    4300018: Sphere025
+    4300020: Tube003
+    4300022: Tube004
+    4300024: Sphere029
+    4300026: Sphere030
+    4300028: Sphere021
+    4300030: Cylinder012
+    4300032: Sphere020
+    4300034: Cylinder011
+    4300036: Cylinder010
+    4300038: Cylinder009
+    4300040: Sphere022
+    4300042: Cylinder013
+    4300044: Cylinder014
+    4300046: Cylinder015
+    4300048: Sphere023
+    4300050: Cylinder016
+    4300052: Cylinder018
+    4300054: Sphere027
+    4300056: Cylinder019
+    4300058: Sphere028
+    7400000: Take 001
+    7400002: mixamo.com
+    9500000: //RootNode
+    13700000: ChamferBox005
+    13700002: Cylinder008
+    13700004: Cylinder009
+    13700006: Cylinder010
+    13700008: Cylinder011
+    13700010: Cylinder012
+    13700012: Cylinder013
+    13700014: Cylinder014
+    13700016: Cylinder015
+    13700018: Cylinder016
+    13700020: Cylinder017
+    13700022: Cylinder018
+    13700024: Cylinder019
+    13700026: OilTank001
+    13700028: Sphere018
+    13700030: Sphere019
+    13700032: Sphere020
+    13700034: Sphere021
+    13700036: Sphere022
+    13700038: Sphere023
+    13700040: Sphere024
+    13700042: Sphere025
+    13700044: Sphere027
+    13700046: Sphere028
+    13700048: Sphere029
+    13700050: Sphere030
+    13700052: Tube001
+    13700054: Tube002
+    13700056: Tube003
+    13700058: Tube004
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
